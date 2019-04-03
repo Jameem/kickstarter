@@ -1,5 +1,10 @@
+import React, { Component } from "react";
+import { Card, Button } from "semantic-ui-react";
 import Link from "next/link";
 import Header from "../components/header";
+
+import factory from "../ethereum/factory";
+import Layout from "../components/layout";
 
 function Index() {
   return (
