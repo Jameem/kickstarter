@@ -7,9 +7,9 @@ Crowd funding ideas on the blockchain
 Install these prerequisites to follow along
 
 - NPM: https://nodejs.org
-Truffle: https://github.com/trufflesuite/truffle
-Ganache: http://truffleframework.com/ganache/
-Metamask: https://metamask.io/
+- Metamask: https://metamask.io/
+
+### Step 1. Clone the project
 
 ```jsx
 import Link from "next/link";
