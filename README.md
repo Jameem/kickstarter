@@ -4,7 +4,12 @@ Crowd funding ideas on the blockchain
 
 ## Dependencies
 
-- Create a `pages` folder with an `index.js` file with the following code:
+- Install these prerequisites to follow along
+
+NPM: https://nodejs.org
+Truffle: https://github.com/trufflesuite/truffle
+Ganache: http://truffleframework.com/ganache/
+Metamask: https://metamask.io/
 
 ```jsx
 import Link from "next/link";
