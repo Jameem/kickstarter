@@ -2,7 +2,7 @@
 
 Crowd funding ideas on the blockchain
 
-### Getting started with Next.js
+## Dependencies
 
 - Create a `pages` folder with an `index.js` file with the following code:
 
