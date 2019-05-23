@@ -1,6 +1,6 @@
-# rtrtrt
+# KickStarter
 
-In this example we will be deploying a simple "Hello World" example with Next.js.
+Crowd funding ideas on the blockchain
 
 ### Getting started with Next.js
 
